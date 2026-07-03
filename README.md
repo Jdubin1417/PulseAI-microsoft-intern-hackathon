@@ -2,7 +2,7 @@
 
 Pulse AI is an Electron-based desktop application designed to make meetings more interactive and engaging. The app can record audio, transcribe the conversation, and generate short multiple-choice quiz questions from the discussion so users can stay focused and test their understanding in real time.
 
-This project was built as part of a Microsoft intern hackathon and includes the hackathon-era Azure OpenAI endpoint references used during development.
+This project was built as part of the 2025 Microsoft Intern Hackathon.
 
 ## What it does
 
